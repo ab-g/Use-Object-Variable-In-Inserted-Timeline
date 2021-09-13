@@ -1,1 +1,26 @@
-{"@class":"VariousSymbolTable","id":{"uuid":"441F6629-409E-4504-AEFA-5C43B57AA9E1"},"variables":[{"@class":"VariantVariable","id":{"uuid":"ABAC160E-0561-46E4-8DE5-5127433B28AC"},"name":"object__C95EA845_BC44_4DCC_857D_B0257C48D480__animation_playing","type":"float","value":0.0}]}
+{
+  "@class": "VariousSymbolTable",
+  "id": {
+    "uuid": "441F6629-409E-4504-AEFA-5C43B57AA9E1"
+  },
+  "variables": [
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "33EB2407-E22A-4980-B0C1-4281034164F5"
+      },
+      "name": "object__BAECF013_63BB_4D13_8F1E_CFBE11F62500__y",
+      "type": "float",
+      "value": 1
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "ABAC160E-0561-46E4-8DE5-5127433B28AC"
+      },
+      "name": "object__C95EA845_BC44_4DCC_857D_B0257C48D480__animation_playing",
+      "type": "float",
+      "value": 0
+    }
+  ]
+}

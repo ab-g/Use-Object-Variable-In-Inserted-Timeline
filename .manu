@@ -1,12 +1,18 @@
 {
-    "Camera/Position/X": 4.319224834442139,
-    "Camera/Position/Y": 2.9931468963623047,
-    "Camera/Position/Z": 5.981563091278076,
+    "1C435217-1F56-4B14-B162-D5571841CD11/ExpandedNodes/BAECF013-63BB-4D13-8F1E-CFBE11F62500": "Box 1",
+    "38E0581A-90A4-4FD3-9460-7C0686BF3604/SelectedTimelineObject": "0 0 ",
+    "38E0581A-90A4-4FD3-9460-7C0686BF3604/UnfoldedTimelineNodes/B54165DF-A7CC-44EB-ABFE-149DAAB50204": "Box",
+    "Camera/Position/X": 9.581269264221191,
+    "Camera/Position/Y": 6.639652252197266,
+    "Camera/Position/Z": 13.26880931854248,
     "Camera/Rotation/W": 0.9338945150375366,
     "Camera/Rotation/X": -0.18222172558307648,
     "Camera/Rotation/Y": 0.30193382501602173,
     "Camera/Rotation/Z": 0.05891338363289833,
     "Camera/Type": 0,
+    "E2DEF330-99DA-4B34-AE50-D8606997FDD3/SelectedTimelineObject": "0 0 ",
+    "E2DEF330-99DA-4B34-AE50-D8606997FDD3/UnfoldedTimelineNodes/26D2CC3A-7491-4BC5-80AE-9926EEC14E10": "Inserted animations",
+    "E2DEF330-99DA-4B34-AE50-D8606997FDD3/UnfoldedTimelineNodes/277B2CD5-5FA7-4345-97D0-43B20A28DAB7": "Box 1",
     "Editor/ValueDraggerStepSize": 10,
     "SnapTypePosiotion/SnapPreset1": 0.5,
     "SnapTypePosiotion/SnapPreset2": 1,
@@ -14,5 +20,5 @@
     "SnapTypeRotation/SnapPreset1": 45,
     "SnapTypeRotation/SnapPreset2": 90,
     "SnapTypeRotation/SnapPresetSelected": 0,
-    "export/projectName": "New-Project-without-Character"
+    "export/projectName": "Use-Object-Variable-In-Inserted-Timeline"
 }
